@@ -9,9 +9,8 @@
 body {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: oblique;
-    background: #4a83a0;
+    background:linear-gradient(to top, #faaa2a, #4a83a0);
     color: #012435;
-    line-height: 1.6;
     font-weight: bold;
 }
 
