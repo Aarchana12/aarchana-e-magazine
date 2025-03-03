@@ -1,6 +1,3 @@
-Got it! Let me rewrite the **`README.md`** in a proper, clean Markdown format without unnecessary tags. Here’s a cleaner and professional version:
-
-```markdown
 # E-Magazine/Online Newspaper Platform
 
 ## 🌐 Live Preview
@@ -108,6 +105,3 @@ For queries, feedback, or suggestions, feel free to raise an issue or drop a mes
 
 ```
 
----
-
-Let me know if you want this as a **`README.md` file download** or if you want me to directly draft a file you can copy into your project folder. Want me to also help you set up your GitHub repository for this? 😊
