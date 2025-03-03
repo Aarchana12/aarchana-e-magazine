@@ -101,7 +101,6 @@ For queries, feedback, or suggestions, feel free to raise an issue or drop a mes
 
 ---
 
-⭐️ _If you find this project helpful, consider giving it a star on GitHub!_
+⭐️ _If you find this project helpful, consider giving it a star on GitHub!
 
-```
 
