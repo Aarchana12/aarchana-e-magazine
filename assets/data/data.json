@@ -19,7 +19,7 @@
         "category": "entertainment",
         "multimedia": {
             "type": "youtube",
-            "url": "https://www.youtube.com/embed/tav0XVFzFgY?si=02DGxg3g0i642AET"
+            "url": "https://www.youtube.com/embed/tav0XVFzFgY?si=02DGx3g0i642AET"
         },
         "content": "Bollywood Cine Nights bring together the biggest stars, filmmakers, and music sensations for unforgettable celebrations of cinema. In 2025, the event was bigger than ever, blending dazzling performances, red carpet glamour, and heartfelt tributes to legendary icons.\n\nThe night began with a stunning opening performance, showcasing a fusion of Bollywood’s rich musical heritage with contemporary beats. Top actors walked the red carpet, setting new fashion trends that fans couldn’t stop talking about. Exclusive interviews provided insider glimpses into upcoming blockbusters and behind-the-scenes stories.\n\nThe highlight of the evening was a special segment celebrating the evolution of Bollywood over the decades — from timeless classics to groundbreaking modern cinema. This event wasn’t just about awards; it was a grand celebration of storytelling, creativity, and cultural influence.\n\nRelive the magic of Bollywood Cine Nights with this exclusive video coverage capturing the essence of cinema’s grandest evening."
     },
@@ -60,68 +60,63 @@
         "content": "Space exploration in 2025 has reached unprecedented heights, with new missions unlocking the mysteries of distant planets and even interstellar space. Advances in propulsion technology, robotics, and AI-assisted navigation have enabled faster, safer, and more efficient space travel.\n\nPrivate companies and national agencies alike are collaborating on ambitious projects, including lunar habitats, Mars colonization prototypes, and asteroid mining ventures.\n\nWith telescopes capturing clearer images of exoplanets and deep space phenomena, humanity is closer than ever to answering fundamental questions about our place in the cosmos."
     },
     {
-    "id": 6,
-    "title": "The Rise of Autonomous AI Agents",
-    "description": "Explore how AI agents are independently solving real-world problems in 2025.",
-    "image": "assets/images/article6.jpg",
-    "category": "technology",
-    "multimedia": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/embed/nBJgKrntR3M?si=EPO2U1mB5RVghv7W"
+        "id": 6,
+        "title": "The Rise of Autonomous AI Agents",
+        "description": "Explore how AI agents are independently solving real-world problems in 2025.",
+        "image": "assets/images/article6.jpg",
+        "category": "technology",
+        "multimedia": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/nBJgKrntR3M?si=EPO2U1mB5RVghv7W"
+        },
+        "content": "Autonomous AI agents have taken center stage in 2025, changing how tasks are handled across industries. These agents are not just tools but decision-makers, capable of complex problem-solving, negotiations, and independent learning. Whether managing supply chains, handling customer support, or optimizing financial portfolios, AI agents are demonstrating a new era of collaboration between humans and machines. Startups and enterprises alike are integrating autonomous agents to drive efficiency, minimize human error, and unlock new possibilities in automation."
     },
-    "content": "Autonomous AI agents have taken center stage in 2025, changing how tasks are handled across industries. These agents are not just tools but decision-makers, capable of complex problem-solving, negotiations, and independent learning. Whether managing supply chains, handling customer support, or optimizing financial portfolios, AI agents are demonstrating a new era of collaboration between humans and machines. Startups and enterprises alike are integrating autonomous agents to drive efficiency, minimize human error, and unlock new possibilities in automation."
-}
-
-{
-    "id": 7,
-    "title": "Machine Learning in Healthcare: A New Frontier",
-    "description": "How AI and ML are revolutionizing diagnostics, treatments, and patient care.",
-    "image": "assets/images/article7.jpg",
-    "category": "technology",
-    "multimedia": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/embed/wa6o5GL9LVc?si=oxj_vM-ypl4znHBL"
+    {
+        "id": 7,
+        "title": "Machine Learning in Healthcare: A New Frontier",
+        "description": "How AI and ML are revolutionizing diagnostics, treatments, and patient care.",
+        "image": "assets/images/article7.jpg",
+        "category": "technology",
+        "multimedia": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/wa6o5GL9LVc?si=oxj_vM-ypl4znHBL"
+        },
+        "content": "In 2025, machine learning models are deeply embedded into healthcare systems, transforming the way diseases are diagnosed, treatments are recommended, and patient outcomes are tracked. Predictive analytics enables early detection of critical illnesses like cancer and heart disease, while AI-powered imaging tools improve the accuracy of medical scans. Personalized medicine, driven by machine learning algorithms, tailors treatments to each individual's unique genetic makeup. Healthcare professionals are working hand-in-hand with AI, making medicine more precise, proactive, and accessible."
     },
-    "content": "In 2025, machine learning models are deeply embedded into healthcare systems, transforming the way diseases are diagnosed, treatments are recommended, and patient outcomes are tracked. Predictive analytics enables early detection of critical illnesses like cancer and heart disease, while AI-powered imaging tools improve the accuracy of medical scans. Personalized medicine, driven by machine learning algorithms, tailors treatments to each individual's unique genetic makeup. Healthcare professionals are working hand-in-hand with AI, making medicine more precise, proactive, and accessible."
-}
-
-{
-    "id": 8,
-    "title": "Ethical AI: Challenges and Solutions",
-    "description": "Navigating the complex world of bias, fairness, and transparency in AI systems.",
-    "image": "assets/images/article8.jpg",
-    "category": "technology",
-    "multimedia": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/embed/EyoZ5nKfLRE?si=AHUt0EEz9lDRBlCT"
+    {
+        "id": 8,
+        "title": "Ethical AI: Challenges and Solutions",
+        "description": "Navigating the complex world of bias, fairness, and transparency in AI systems.",
+        "image": "assets/images/article8.jpg",
+        "category": "technology",
+        "multimedia": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/EyoZ5nKfLRE?si=AHUt0EEz9lDRBlCT"
+        },
+        "content": "As AI becomes increasingly influential, ethical concerns around bias, fairness, and transparency are at the forefront. In 2025, organizations are investing heavily in building responsible AI frameworks that ensure inclusivity and mitigate discrimination. Regulatory bodies are introducing stricter standards for AI audits and explainability, holding companies accountable for the outputs their models generate. Ethical AI is no longer optional — it is fundamental to building trust and ensuring that technology benefits all sectors of society fairly and equitably."
     },
-    "content": "As AI becomes increasingly influential, ethical concerns around bias, fairness, and transparency are at the forefront. In 2025, organizations are investing heavily in building responsible AI frameworks that ensure inclusivity and mitigate discrimination. Regulatory bodies are introducing stricter standards for AI audits and explainability, holding companies accountable for the outputs their models generate. Ethical AI is no longer optional — it is fundamental to building trust and ensuring that technology benefits all sectors of society fairly and equitably."
-}
-
-{
-    "id": 9,
-    "title": "How Generative AI is Shaping Creativity",
-    "description": "From music to design, generative AI is redefining human creativity.",
-    "image": "assets/images/article9.jpg",
-    "category": "technology",
-    "multimedia": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/embed/4hQ2LCGW2hY?si=-2IM7i-Q-j5kJKYr"
+    {
+        "id": 9,
+        "title": "How Generative AI is Shaping Creativity",
+        "description": "From music to design, generative AI is redefining human creativity.",
+        "image": "assets/images/article9.jpg",
+        "category": "technology",
+        "multimedia": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/4hQ2LCGW2hY?si=-2IM7i-Q-j5kJKYr"
+        },
+        "content": "Generative AI has evolved from experimental tech to a powerful creative partner by 2025. Artists, designers, writers, and musicians are using generative models to produce innovative work at unprecedented speed and scale. AI tools now assist in scriptwriting, fashion design, video production, and even architectural planning. Rather than replacing human creativity, generative AI augments it, pushing the boundaries of imagination and offering new mediums for self-expression and collaboration."
     },
-    "content": "Generative AI has evolved from experimental tech to a powerful creative partner by 2025. Artists, designers, writers, and musicians are using generative models to produce innovative work at unprecedented speed and scale. AI tools now assist in scriptwriting, fashion design, video production, and even architectural planning. Rather than replacing human creativity, generative AI augments it, pushing the boundaries of imagination and offering new mediums for self-expression and collaboration."
-}
-
-{
-    "id": 10,
-    "title": "AI in Cybersecurity: The Digital Arms Race",
-    "description": "How machine learning is both defending and challenging cybersecurity systems.",
-    "image": "assets/images/article10.jpg",
-    "category": "technology",
-    "multimedia": {
-        "type": "youtube",
-        "url": "https://www.youtube.com/embed/7NTMHPgfGWI?si=a0V7ibEKlWmp7K4B"
-    },
-    "content": "With cyber threats becoming more sophisticated, AI-driven cybersecurity solutions are the backbone of defense strategies in 2025. Machine learning algorithms now predict, detect, and neutralize threats faster than traditional methods ever could. However, cybercriminals are also leveraging AI to launch smarter, more targeted attacks. This creates a continuous arms race where innovation in defense must always outpace threats. Proactive threat hunting, anomaly detection, and AI-enhanced encryption are crucial to maintaining security in an interconnected world."
-}
-
+    {
+        "id": 10,
+        "title": "AI in Cybersecurity: The Digital Arms Race",
+        "description": "How machine learning is both defending and challenging cybersecurity systems.",
+        "image": "assets/images/article10.jpg",
+        "category": "technology",
+        "multimedia": {
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/7NTMHPgfGWI?si=a0V7ibEKlWmp7K4B"
+        },
+        "content": "With cyber threats becoming more sophisticated, AI-driven cybersecurity solutions are the backbone of defense strategies in 2025. Machine learning algorithms now predict, detect, and neutralize threats faster than traditional methods ever could. However, cybercriminals are also leveraging AI to launch smarter, more targeted attacks. This creates a continuous arms race where innovation in defense must always outpace threats. Proactive threat hunting, anomaly detection, and AI-enhanced encryption are crucial to maintaining security in an interconnected world."
+    }
 ]
