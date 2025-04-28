@@ -79,7 +79,7 @@
         "category": "technology",
         "multimedia": {
             "type": "youtube",
-            "url": "https://youtu.be/IsYHsHd3c90?si=bdgzbHRPq-yUnxf5"
+            "url": "https://www.youtube.com/embed/IsYHsHd3c90?si=gP4EattkFASgW2dd"
         },
         "content": "In 2025, machine learning models are deeply embedded into healthcare systems, transforming the way diseases are diagnosed, treatments are recommended, and patient outcomes are tracked. Predictive analytics enables early detection of critical illnesses like cancer and heart disease, while AI-powered imaging tools improve the accuracy of medical scans. Personalized medicine, driven by machine learning algorithms, tailors treatments to each individual's unique genetic makeup. Healthcare professionals are working hand-in-hand with AI, making medicine more precise, proactive, and accessible."
     },
@@ -99,7 +99,7 @@
         "id": 9,
         "title": "How Generative AI is Shaping Creativity",
         "description": "From music to design, generative AI is redefining human creativity.",
-        "image": "assets/images/article9.jpg",
+        "image": "https://www.boffinbrains.com/storage/blogs/images/mrWkpnzCBNxkY5EupoKDCoGoxFy4QL7P0LT2VwfO.jpg",
         "category": "technology",
         "multimedia": {
             "type": "youtube",
@@ -111,7 +111,7 @@
         "id": 10,
         "title": "AI in Cybersecurity: The Digital Arms Race",
         "description": "How machine learning is both defending and challenging cybersecurity systems.",
-        "image": "assets/images/article10.jpg",
+        "image": "https://www.novacomputersolutions.com/wp-content/uploads/2024/01/AI-Cybersecurity.jpg",
         "category": "technology",
         "multimedia": {
             "type": "youtube",
