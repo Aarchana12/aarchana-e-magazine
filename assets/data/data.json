@@ -63,11 +63,11 @@
         "id": 6,
         "title": "The Rise of Autonomous AI Agents",
         "description": "Explore how AI agents are independently solving real-world problems in 2025.",
-        "image": "assets/images/article6.jpg",
+        "image": "https://www.techopedia.com/wp-content/uploads/2024/02/Autonomous-AI-1.jpg",
         "category": "technology",
         "multimedia": {
             "type": "youtube",
-            "url": "https://www.youtube.com/embed/nBJgKrntR3M?si=EPO2U1mB5RVghv7W"
+            "url": "https://youtu.be/F8NKVhkZZWI?si=KcxHTrDGmz9cYt95"
         },
         "content": "Autonomous AI agents have taken center stage in 2025, changing how tasks are handled across industries. These agents are not just tools but decision-makers, capable of complex problem-solving, negotiations, and independent learning. Whether managing supply chains, handling customer support, or optimizing financial portfolios, AI agents are demonstrating a new era of collaboration between humans and machines. Startups and enterprises alike are integrating autonomous agents to drive efficiency, minimize human error, and unlock new possibilities in automation."
     },
@@ -75,11 +75,11 @@
         "id": 7,
         "title": "Machine Learning in Healthcare: A New Frontier",
         "description": "How AI and ML are revolutionizing diagnostics, treatments, and patient care.",
-        "image": "assets/images/article7.jpg",
+        "image": "https://10decoders.com/wp-content/uploads/2024/01/Advanced-Machine-Learning-in-Healthcare-Interoperability.png",
         "category": "technology",
         "multimedia": {
             "type": "youtube",
-            "url": "https://www.youtube.com/embed/wa6o5GL9LVc?si=oxj_vM-ypl4znHBL"
+            "url": "https://youtu.be/IsYHsHd3c90?si=bdgzbHRPq-yUnxf5"
         },
         "content": "In 2025, machine learning models are deeply embedded into healthcare systems, transforming the way diseases are diagnosed, treatments are recommended, and patient outcomes are tracked. Predictive analytics enables early detection of critical illnesses like cancer and heart disease, while AI-powered imaging tools improve the accuracy of medical scans. Personalized medicine, driven by machine learning algorithms, tailors treatments to each individual's unique genetic makeup. Healthcare professionals are working hand-in-hand with AI, making medicine more precise, proactive, and accessible."
     },
@@ -87,7 +87,7 @@
         "id": 8,
         "title": "Ethical AI: Challenges and Solutions",
         "description": "Navigating the complex world of bias, fairness, and transparency in AI systems.",
-        "image": "assets/images/article8.jpg",
+        "image": "https://www.xenonstack.com/hubfs/xenonstack-ethical-ai-challenges-and-solutions.png",
         "category": "technology",
         "multimedia": {
             "type": "youtube",
